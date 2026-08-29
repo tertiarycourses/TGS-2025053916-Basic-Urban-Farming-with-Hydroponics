@@ -8,6 +8,8 @@
 - Replaced the slide 70 legacy root icon with a photorealistic healthy-versus-stressed root comparison.
 - Removed cross-slide image repetition on slides 18, 79 and 110 using three distinct local farm-tour photos.
 - Added three further authentic blog-archive farm-tour photographs to the slide 100 evidence collage.
+- Expanded the WSQ admin sequence at the beginning and end of the deck, including separate TRAQOM, assessment briefing, assessment, assessment-flow, LMS, feedback and completion pages.
+- Added a visual 09:00-18:00 Lesson Plan slide and realigned the Lesson Plan document to the final 139-slide deck.
 - Replaced historical 30-by-30 framing with Singapore Food Story 2 and 2035 capacity targets.
 - Added current Singapore cases: ComCrop, Sustenir, Singrow, Greenphyto and ACT Fund 2.
 - Reworked delivery flow to morning theory, lunch, MEOD Farm tour, hydroponics-kit practice and aquaponics theory.

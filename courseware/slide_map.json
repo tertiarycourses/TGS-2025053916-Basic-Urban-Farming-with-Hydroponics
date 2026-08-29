@@ -7,7 +7,7 @@
   {
     "new_slide": 2,
     "legacy_slides": [],
-    "reason": "mandatory visual trainer profile"
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
     "new_slide": 3,
@@ -17,7 +17,7 @@
   {
     "new_slide": 4,
     "legacy_slides": [],
-    "reason": "preserved topic and rebuilt as mechanism-led visual"
+    "reason": "mandatory visual trainer profile"
   },
   {
     "new_slide": 5,
@@ -42,7 +42,7 @@
   {
     "new_slide": 9,
     "legacy_slides": [],
-    "reason": "preserved topic and rebuilt as mechanism-led visual"
+    "reason": "mandatory visual one-day lesson plan"
   },
   {
     "new_slide": 10,
@@ -57,21 +57,17 @@
   {
     "new_slide": 12,
     "legacy_slides": [],
-    "reason": "section divider"
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
     "new_slide": 13,
-    "legacy_slides": [
-      20
-    ],
-    "reason": "preserved topic and rebuilt as mechanism-led visual"
+    "legacy_slides": [],
+    "reason": "mandatory horizontal WSQ assessment flow"
   },
   {
     "new_slide": 14,
-    "legacy_slides": [
-      22
-    ],
-    "reason": "preserved topic and rebuilt as mechanism-led visual"
+    "legacy_slides": [],
+    "reason": "learner-safe activity repository access"
   },
   {
     "new_slide": 15,
@@ -80,123 +76,123 @@
   },
   {
     "new_slide": 16,
-    "legacy_slides": [
-      30
-    ],
+    "legacy_slides": [],
     "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
     "new_slide": 17,
-    "legacy_slides": [
-      34
-    ],
+    "legacy_slides": [],
     "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
     "new_slide": 18,
     "legacy_slides": [],
-    "reason": "preserved topic and rebuilt as mechanism-led visual"
+    "reason": "section divider"
   },
   {
     "new_slide": 19,
     "legacy_slides": [
-      48
+      20
     ],
     "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
     "new_slide": 20,
     "legacy_slides": [
-      55
+      22
     ],
     "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
     "new_slide": 21,
-    "legacy_slides": [
-      63
-    ],
+    "legacy_slides": [],
     "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
     "new_slide": 22,
     "legacy_slides": [
-      66
+      30
     ],
     "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
     "new_slide": 23,
-    "legacy_slides": [],
-    "reason": "section divider"
+    "legacy_slides": [
+      34
+    ],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
     "new_slide": 24,
-    "legacy_slides": [
-      75
-    ],
+    "legacy_slides": [],
     "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
     "new_slide": 25,
     "legacy_slides": [
-      80
+      48
     ],
     "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
     "new_slide": 26,
     "legacy_slides": [
-      87
+      55
     ],
     "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
     "new_slide": 27,
     "legacy_slides": [
-      91
+      63
     ],
     "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
     "new_slide": 28,
     "legacy_slides": [
-      98
+      66
     ],
     "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
     "new_slide": 29,
     "legacy_slides": [],
-    "reason": "preserved topic and rebuilt as mechanism-led visual"
+    "reason": "section divider"
   },
   {
     "new_slide": 30,
     "legacy_slides": [
-      110
+      75
     ],
     "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
     "new_slide": 31,
     "legacy_slides": [
-      116
+      80
     ],
     "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
     "new_slide": 32,
-    "legacy_slides": [],
+    "legacy_slides": [
+      87
+    ],
     "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
     "new_slide": 33,
-    "legacy_slides": [],
+    "legacy_slides": [
+      91
+    ],
     "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
     "new_slide": 34,
-    "legacy_slides": [],
+    "legacy_slides": [
+      98
+    ],
     "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
@@ -206,13 +202,15 @@
   },
   {
     "new_slide": 36,
-    "legacy_slides": [],
+    "legacy_slides": [
+      110
+    ],
     "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
     "new_slide": 37,
     "legacy_slides": [
-      121
+      116
     ],
     "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
@@ -229,7 +227,7 @@
   {
     "new_slide": 40,
     "legacy_slides": [],
-    "reason": "section divider"
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
     "new_slide": 41,
@@ -238,14 +236,14 @@
   },
   {
     "new_slide": 42,
-    "legacy_slides": [
-      125
-    ],
+    "legacy_slides": [],
     "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
     "new_slide": 43,
-    "legacy_slides": [],
+    "legacy_slides": [
+      121
+    ],
     "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
@@ -261,7 +259,7 @@
   {
     "new_slide": 46,
     "legacy_slides": [],
-    "reason": "preserved topic and rebuilt as mechanism-led visual"
+    "reason": "section divider"
   },
   {
     "new_slide": 47,
@@ -271,7 +269,7 @@
   {
     "new_slide": 48,
     "legacy_slides": [
-      133
+      125
     ],
     "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
@@ -302,7 +300,9 @@
   },
   {
     "new_slide": 54,
-    "legacy_slides": [],
+    "legacy_slides": [
+      133
+    ],
     "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
@@ -328,7 +328,7 @@
   {
     "new_slide": 59,
     "legacy_slides": [],
-    "reason": "section divider"
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
     "new_slide": 60,
@@ -358,7 +358,7 @@
   {
     "new_slide": 65,
     "legacy_slides": [],
-    "reason": "preserved topic and rebuilt as mechanism-led visual"
+    "reason": "section divider"
   },
   {
     "new_slide": 66,
@@ -408,7 +408,7 @@
   {
     "new_slide": 75,
     "legacy_slides": [],
-    "reason": "section divider"
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
     "new_slide": 76,
@@ -438,7 +438,7 @@
   {
     "new_slide": 81,
     "legacy_slides": [],
-    "reason": "preserved topic and rebuilt as mechanism-led visual"
+    "reason": "section divider"
   },
   {
     "new_slide": 82,
@@ -488,12 +488,12 @@
   {
     "new_slide": 91,
     "legacy_slides": [],
-    "reason": "section divider"
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
     "new_slide": 92,
     "legacy_slides": [],
-    "reason": "section divider"
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
     "new_slide": 93,
@@ -518,12 +518,12 @@
   {
     "new_slide": 97,
     "legacy_slides": [],
-    "reason": "preserved topic and rebuilt as mechanism-led visual"
+    "reason": "section divider"
   },
   {
     "new_slide": 98,
     "legacy_slides": [],
-    "reason": "preserved topic and rebuilt as mechanism-led visual"
+    "reason": "section divider"
   },
   {
     "new_slide": 99,
@@ -538,7 +538,7 @@
   {
     "new_slide": 101,
     "legacy_slides": [],
-    "reason": "section divider"
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
     "new_slide": 102,
@@ -568,7 +568,7 @@
   {
     "new_slide": 107,
     "legacy_slides": [],
-    "reason": "preserved topic and rebuilt as mechanism-led visual"
+    "reason": "section divider"
   },
   {
     "new_slide": 108,
@@ -598,7 +598,7 @@
   {
     "new_slide": 113,
     "legacy_slides": [],
-    "reason": "section divider"
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
   },
   {
     "new_slide": 114,
@@ -628,7 +628,7 @@
   {
     "new_slide": 119,
     "legacy_slides": [],
-    "reason": "preserved topic and rebuilt as mechanism-led visual"
+    "reason": "section divider"
   },
   {
     "new_slide": 120,
@@ -677,6 +677,56 @@
   },
   {
     "new_slide": 129,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 130,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 131,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 132,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 133,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 134,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 135,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 136,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 137,
+    "legacy_slides": [],
+    "reason": "mandatory horizontal WSQ assessment flow"
+  },
+  {
+    "new_slide": 138,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 139,
     "legacy_slides": [],
     "reason": "preserved topic and rebuilt as mechanism-led visual"
   }
