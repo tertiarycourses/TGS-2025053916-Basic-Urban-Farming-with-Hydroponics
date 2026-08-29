@@ -22,6 +22,7 @@ Version 2.0 · 29 August 2026
 | Local farm-tour photo: protected crops | Tertiary Infotech blog archive (15 Feb 2020) | Authentic protected-crop context on slide 18. |
 | Local farm-tour photo: hydroponic channels | Tertiary Infotech blog archive (24 Nov 2019) | Authentic protected hydroponic channels on slide 79; illustrative context, not represented as ComCrop. |
 | Local farm-tour photo: return plumbing | Tertiary Infotech blog archive (24 Nov 2019) | Authentic channel-end and return-plumbing context on slide 110. |
+| Local farm-tour photo series: observe, ask and record | Tertiary Infotech blog archive (15 Feb 2020) | Three authentic learner farm-tour photographs used as the slide 100 evidence collage. |
 | Generated image: cover | courseware/assets/generated/cover-hero-v2.png | Prompt: realistic Singapore classroom/farm hybrid with Asian trainer and learner, NFT leafy greens, pH/EC meters, white negative space; generated 29 Aug 2026; cover. |
 | Generated image: root diagnosis | courseware/assets/generated/root-zone-diagnosis-v1.png | Prompt: realistic split healthy versus brown slimy hydroponic roots; generated 29 Aug 2026; diagnostic slides. |
 | Generated image: farm tour | courseware/assets/generated/farm-tour-observation-v1.png | Prompt: realistic Singapore farm-tour observation with safe documentary framing; generated 29 Aug 2026; tour slides. |
