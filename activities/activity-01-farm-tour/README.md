@@ -1,7 +1,7 @@
 # Activity 01: MEOD Farm Observation and Control Checklist
 
 **Course:** Basic Urban Farming with Hydroponics (TGS-2025053916)  
-**Version:** 2.0 · 29 August 2026
+**Version:** 2.1 · 29 August 2026
 
 Trace a live farm system, distinguish observed evidence from claims and identify operating, WSH, food-safety and maintenance controls.
 

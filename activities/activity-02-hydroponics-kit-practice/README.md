@@ -1,7 +1,7 @@
 # Activity 02: Commission, Operate and Restore a Hydroponics Kit
 
 **Course:** Basic Urban Farming with Hydroponics (TGS-2025053916)  
-**Version:** 2.0 · 29 August 2026
+**Version:** 2.1 · 29 August 2026
 
 Prepare a kit, verify flow, establish a measured nutrient solution, transplant a seedling and return equipment to a clean serviceable state.
 

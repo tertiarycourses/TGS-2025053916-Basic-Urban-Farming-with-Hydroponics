@@ -1,7 +1,7 @@
 # Basic Urban Farming with Hydroponics — Learner Guide
 
 WSQ Course Code: TGS-2025053916
-Version 2.0 · 29 August 2026
+Version 2.1 · 29 August 2026
 Tertiary Infotech Academy Pte Ltd · UEN 201200696W
 
 ## Document Version Control Record
@@ -286,7 +286,8 @@ https://extension.unr.edu/publication.aspx?PubID=2756
 | Version | Date | Description | Approved by |
 |---|---|---|---|
 | 1.0 | 24 March 2025 | Legacy approved course package baseline. | Course Development Team |
-| 2.0 | 29 August 2026 | Substantial technical rebuild aligned to current Singapore context, farm tour and hydroponics-kit activity. | Dr Alfred Ang |
+| 2.0 | 29 August 2026 | Technical rebuild with current Singapore context, aligned Activities and WSQ administration. | Dr Alfred Ang |
+| 2.1 | 29 August 2026 | Aligned v2.1 package release; detailed hydroponics-kit procedures retained while the deck gains authentic practice-session imagery. | Dr Alfred Ang |
 
 | Observation | Check first | Do not assume | Escalation/acceptance |
 |---|---|---|---|
