@@ -4,6 +4,7 @@
 
 - Rebuilt the legacy 161-slide package into a current, all-white, mechanism-led visual deck.
 - Preserved useful original hydroponic diagrams and images with a slide-level legacy map.
+- Replaced the slide 15 legacy sketch with an authentic local EC-meter photo and editable mass-balance model.
 - Replaced historical 30-by-30 framing with Singapore Food Story 2 and 2035 capacity targets.
 - Added current Singapore cases: ComCrop, Sustenir, Singrow, Greenphyto and ACT Fund 2.
 - Reworked delivery flow to morning theory, lunch, MEOD Farm tour, hydroponics-kit practice and aquaponics theory.

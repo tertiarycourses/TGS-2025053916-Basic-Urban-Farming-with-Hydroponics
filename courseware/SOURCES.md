@@ -18,6 +18,7 @@ Version 2.0 · 29 August 2026
 | Illinois Extension 2026 | https://extension.illinois.edu/blogs/good-growing/2026-01-16-growing-without-soil-getting-started-hydroponics-home | Current beginner hydroponics guidance. |
 | University of Nevada Extension | https://extension.unr.edu/publication.aspx?PubID=2756 | Water, nutrition and systems reference. |
 | Legacy trainer deck | courseware/reference/WSQ-Master Trainer Slides-Basic Hydroponics Course for Urban Farming.pptx | Original content and embedded visuals; procedures moved to Learner Guide. |
+| Local course photo: EC reservoir check | Tertiary Infotech local course photo archive (14 Mar 2026) | Authentic pH/EC meter measurement; embedded in the slide 15 mass-balance visual. |
 | Generated image: cover | courseware/assets/generated/cover-hero-v2.png | Prompt: realistic Singapore classroom/farm hybrid with Asian trainer and learner, NFT leafy greens, pH/EC meters, white negative space; generated 29 Aug 2026; cover. |
 | Generated image: root diagnosis | courseware/assets/generated/root-zone-diagnosis-v1.png | Prompt: realistic split healthy versus brown slimy hydroponic roots; generated 29 Aug 2026; diagnostic slides. |
 | Generated image: farm tour | courseware/assets/generated/farm-tour-observation-v1.png | Prompt: realistic Singapore farm-tour observation with safe documentary framing; generated 29 Aug 2026; tour slides. |
