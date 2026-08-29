@@ -1,0 +1,691 @@
+[
+  {
+    "new_slide": 1,
+    "legacy_slides": [],
+    "reason": "new v2.0 cover"
+  },
+  {
+    "new_slide": 2,
+    "legacy_slides": [],
+    "reason": "mandatory visual trainer profile"
+  },
+  {
+    "new_slide": 3,
+    "legacy_slides": [],
+    "reason": "mandatory visual trainer profile"
+  },
+  {
+    "new_slide": 4,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 5,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 6,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 7,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 8,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 9,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 10,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 11,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 12,
+    "legacy_slides": [],
+    "reason": "section divider"
+  },
+  {
+    "new_slide": 13,
+    "legacy_slides": [
+      20
+    ],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 14,
+    "legacy_slides": [
+      22
+    ],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 15,
+    "legacy_slides": [
+      24
+    ],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 16,
+    "legacy_slides": [
+      30
+    ],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 17,
+    "legacy_slides": [
+      34
+    ],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 18,
+    "legacy_slides": [
+      46
+    ],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 19,
+    "legacy_slides": [
+      48
+    ],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 20,
+    "legacy_slides": [
+      55
+    ],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 21,
+    "legacy_slides": [
+      63
+    ],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 22,
+    "legacy_slides": [
+      66
+    ],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 23,
+    "legacy_slides": [],
+    "reason": "section divider"
+  },
+  {
+    "new_slide": 24,
+    "legacy_slides": [
+      75
+    ],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 25,
+    "legacy_slides": [
+      80
+    ],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 26,
+    "legacy_slides": [
+      87
+    ],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 27,
+    "legacy_slides": [
+      91
+    ],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 28,
+    "legacy_slides": [
+      98
+    ],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 29,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 30,
+    "legacy_slides": [
+      110
+    ],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 31,
+    "legacy_slides": [
+      116
+    ],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 32,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 33,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 34,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 35,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 36,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 37,
+    "legacy_slides": [
+      121
+    ],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 38,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 39,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 40,
+    "legacy_slides": [],
+    "reason": "section divider"
+  },
+  {
+    "new_slide": 41,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 42,
+    "legacy_slides": [
+      125
+    ],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 43,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 44,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 45,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 46,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 47,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 48,
+    "legacy_slides": [
+      133
+    ],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 49,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 50,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 51,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 52,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 53,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 54,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 55,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 56,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 57,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 58,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 59,
+    "legacy_slides": [],
+    "reason": "section divider"
+  },
+  {
+    "new_slide": 60,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 61,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 62,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 63,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 64,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 65,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 66,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 67,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 68,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 69,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 70,
+    "legacy_slides": [
+      133
+    ],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 71,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 72,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 73,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 74,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 75,
+    "legacy_slides": [],
+    "reason": "section divider"
+  },
+  {
+    "new_slide": 76,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 77,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 78,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 79,
+    "legacy_slides": [
+      46
+    ],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 80,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 81,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 82,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 83,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 84,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 85,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 86,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 87,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 88,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 89,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 90,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 91,
+    "legacy_slides": [],
+    "reason": "section divider"
+  },
+  {
+    "new_slide": 92,
+    "legacy_slides": [],
+    "reason": "section divider"
+  },
+  {
+    "new_slide": 93,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 94,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 95,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 96,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 97,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 98,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 99,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 100,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 101,
+    "legacy_slides": [],
+    "reason": "section divider"
+  },
+  {
+    "new_slide": 102,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 103,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 104,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 105,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 106,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 107,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 108,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 109,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 110,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 111,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 112,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 113,
+    "legacy_slides": [],
+    "reason": "section divider"
+  },
+  {
+    "new_slide": 114,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 115,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 116,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 117,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 118,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 119,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 120,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 121,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 122,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 123,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 124,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 125,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 126,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 127,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 128,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  },
+  {
+    "new_slide": 129,
+    "legacy_slides": [],
+    "reason": "preserved topic and rebuilt as mechanism-led visual"
+  }
+]

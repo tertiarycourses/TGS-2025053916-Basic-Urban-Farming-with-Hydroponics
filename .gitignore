@@ -1,0 +1,14 @@
+.env
+.DS_Store
+.claude/
+assessment/
+course_application/
+blogs/
+courseware/reference/
+courseware/assets/
+courseware/qa/
+courseware/archive/
+courseware/build/
+*.log
+~$*
+
