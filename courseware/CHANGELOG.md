@@ -6,6 +6,7 @@
 - Preserved useful original hydroponic diagrams and images with a slide-level legacy map.
 - Replaced the slide 15 legacy sketch with an authentic local EC-meter photo and editable mass-balance model.
 - Replaced the slide 70 legacy root icon with a photorealistic healthy-versus-stressed root comparison.
+- Removed cross-slide image repetition on slides 18, 79 and 110 using three distinct local farm-tour photos.
 - Replaced historical 30-by-30 framing with Singapore Food Story 2 and 2035 capacity targets.
 - Added current Singapore cases: ComCrop, Sustenir, Singrow, Greenphyto and ACT Fund 2.
 - Reworked delivery flow to morning theory, lunch, MEOD Farm tour, hydroponics-kit practice and aquaponics theory.

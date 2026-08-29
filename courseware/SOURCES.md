@@ -19,6 +19,9 @@ Version 2.0 · 29 August 2026
 | University of Nevada Extension | https://extension.unr.edu/publication.aspx?PubID=2756 | Water, nutrition and systems reference. |
 | Legacy trainer deck | courseware/reference/WSQ-Master Trainer Slides-Basic Hydroponics Course for Urban Farming.pptx | Original content and embedded visuals; procedures moved to Learner Guide. |
 | Local course photo: EC reservoir check | Tertiary Infotech local course photo archive (14 Mar 2026) | Authentic pH/EC meter measurement; embedded in the slide 15 mass-balance visual. |
+| Local farm-tour photo: protected crops | Tertiary Infotech blog archive (15 Feb 2020) | Authentic protected-crop context on slide 18. |
+| Local farm-tour photo: hydroponic channels | Tertiary Infotech blog archive (24 Nov 2019) | Authentic protected hydroponic channels on slide 79; illustrative context, not represented as ComCrop. |
+| Local farm-tour photo: return plumbing | Tertiary Infotech blog archive (24 Nov 2019) | Authentic channel-end and return-plumbing context on slide 110. |
 | Generated image: cover | courseware/assets/generated/cover-hero-v2.png | Prompt: realistic Singapore classroom/farm hybrid with Asian trainer and learner, NFT leafy greens, pH/EC meters, white negative space; generated 29 Aug 2026; cover. |
 | Generated image: root diagnosis | courseware/assets/generated/root-zone-diagnosis-v1.png | Prompt: realistic split healthy versus brown slimy hydroponic roots; generated 29 Aug 2026; diagnostic slides. |
 | Generated image: farm tour | courseware/assets/generated/farm-tour-observation-v1.png | Prompt: realistic Singapore farm-tour observation with safe documentary framing; generated 29 Aug 2026; tour slides. |
